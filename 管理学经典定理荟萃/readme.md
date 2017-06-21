@@ -1,4 +1,4 @@
-![管理学经典定理荟萃](管理学经典定理荟萃/管理学经典定理荟萃.svg)
+![管理学经典定理荟萃](https://github.com/eawangyubo/management/blob/master/管理学经典定理荟萃/管理学经典定理荟萃.svg)
 
 # 管理学经典定理荟萃
 
